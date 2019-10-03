@@ -25,5 +25,3 @@ Twitter Profile Card Component built purely in Tailwind CSS and Laravel. This wa
 ***
 
 :v: Hope you enjoy! :v:
-<br>
-Justin Merrell
