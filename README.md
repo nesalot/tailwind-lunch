@@ -1,15 +1,8 @@
 # Twitter Profile Card Component - Tailwind CSS - Lunch & Learn
-.center[
-![Screenshot of Current Version](https://i.imgur.com/0PDcCUu.png)
-.caption [
-*Screenshot of Twitter Profile Card in Wide View*
-]
 
-![Screenshot of Current Version](https://i.imgur.com/IZxeZ3e.png)
-.caption [
-*Screenshot of Twitter Profile Card in Small View (Responsive)*
-]
-]
+![Screenshot of Current Version](https://i.imgur.com/0PDcCUu.png)*Screenshot of Twitter Profile Card in Wide View*
+
+![Screenshot of Current Version](https://i.imgur.com/IZxeZ3e.png)*Screenshot of Twitter Profile Card in Small View (Responsive)*
 
 <br>
 
