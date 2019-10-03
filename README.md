@@ -5,6 +5,7 @@
 Twitter Profile Card Component built purely in Tailwind CSS and Laravel. This was example project to show off the capabilities of Tailwind CSS for a 1 hour presentation I did at work to show off my fellow dev team on why our whole team should use Tailwind CSS. 
 
 <br>
+
 ## Screens of App:
 
 ![Screenshot of Current Version](https://i.imgur.com/0PDcCUu.png)<br>*Screenshot of Twitter Profile Card in Wide View*
