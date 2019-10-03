@@ -1,4 +1,4 @@
-# Twitter Profile Card Component - Tailwind CSS - Lunch & Learn
+# Twitter Profile Card Component - Tailwind CSS
 
 ## Basics of App:
 
